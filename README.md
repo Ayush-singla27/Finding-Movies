@@ -1,6 +1,7 @@
 # Finding-Movies
 Microsoft engage : movie recommendation system (ML project) <br/>
-Deployed site link :- https://peaceful-sierra-61333.herokuapp.com/<br/>
+Deployed site link :- https://finding-movie.herokuapp.com/ <br/>
+another link if above link is not working(they are exactly same, just in case) :- https://peaceful-sierra-61333.herokuapp.com/<br/>
 Loading the site for the first time may take some time.<br/>
 
 <h2> Installing dependencies </h2>

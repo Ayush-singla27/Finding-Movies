@@ -2,10 +2,10 @@
 Microsoft engage : movie recommendation system (ML project) 
 
 # installing dependencies 
-pip install pandas
+**_pip install pandas
 pip install streamlit
 pip install nltk
-pip install scikit-learn
+pip install scikit-learn_**
 
 
 

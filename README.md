@@ -1,6 +1,6 @@
 # Finding-Movies
 Microsoft engage : movie recommendation system (ML project) <br/>
-Deployed site link :- [https://finding-movie.herokuapp.com/](https://finding-movies-vtfg.onrender.com/) <br/>
+Deployed site link :- [finding-movie](htps://finding-movies-vtfg.onrender.com/) <br/>
 Loading the site for the first time may take some time.<br/>
 
 <h2> Installing dependencies </h2>
@@ -17,4 +17,4 @@ pip install scikit-learn
 Choose any movie and hit that recommend button and your page would look like this! 
 
 ![1](https://user-images.githubusercontent.com/77923967/170862535-c851878a-1139-4b5f-a411-492e178a99b0.jpg)
-  ![2](https://user-images.githubusercontent.com/77923967/170862537-7a476472-ec64-49b3-a211-0009cd57b767.jpg)
+![2](https://user-images.githubusercontent.com/77923967/170862537-7a476472-ec64-49b3-a211-0009cd57b767.jpg)

@@ -1,6 +1,6 @@
 # Finding-Movies
 Microsoft engage : movie recommendation system (ML project) <br/>
-Deployed site link :- htps://finding-movies-vtfg.onrender.com/ <br/>
+Deployed site link :- [Finding_Movies](https://finding-movies-vtfg.onrender.com/) <br/>
 Loading the site for the first time may take some time.<br/>
 
 <h2> Installing dependencies </h2>

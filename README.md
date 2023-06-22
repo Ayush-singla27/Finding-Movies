@@ -11,7 +11,7 @@ pip install nltk<br/>
 pip install scikit-learn
 <h2>Running the web application on local environment</h2>
 1) Download the project on you device<br/>
-2) Open it on any idea (mine : Pycharm)<br/>
+2) Open it on any ide (mine : Pycharm)<br/>
 3) Download all the above mentioned dependencies<br/>
 4) Run "streamlit run main.py" on the terminal and you are good to go!<br/><br/>
 
